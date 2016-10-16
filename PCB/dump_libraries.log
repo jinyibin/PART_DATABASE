@@ -1,0 +1,265 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Sun Oct 16 19:57:30 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: G:/Project/AutoPilotPlatform/¹éµµ/V01/interface board/137320-interface_board1_V1_0_PCB/137320-interface_board1_V1_0_PCB.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  PAD292CIR174D being dumped.
+
+  VIA10-BGA-FULL being dumped.
+
+  SMD40_30 being dumped.
+
+  SMD30_40 being dumped.
+
+  SMD30_32 being dumped.
+
+  SMD12_60 being dumped.
+
+  SMD25_20 being dumped.
+
+  SMD30_43 being dumped.
+
+  SMD10_65 being dumped.
+
+  SMD65_10 being dumped.
+
+  SMD35_22 being dumped.
+
+  PAD315CIR157D-F being dumped.
+
+  SMD35_32 being dumped.
+
+  SMD25_70 being dumped.
+
+  SMD45_50 being dumped.
+
+  SMD25_45 being dumped.
+
+  SMD55_80 being dumped.
+
+  SMD25_75 being dumped.
+
+  SMD55_65 being dumped.
+
+  SMD85_90 being dumped.
+
+  SMD55_95 being dumped.
+
+  SMD75_67 being dumped.
+
+  SMD68_68 being dumped.
+
+  ID-BOARD being dumped.
+
+  SMD99_67 being dumped.
+
+  SMD60_110 being dumped.
+
+  SMD50_145 being dumped.
+
+  SMD80_180 being dumped.
+
+  SMD105_95 being dumped.
+
+  SMD79_134 being dumped.
+
+  SHD10-2_54-P1-SH being dumped.
+
+  SHD10-2_54-P2-SH being dumped.
+
+  SHD10-2_54-P3-SH being dumped.
+
+  SHD10-2_54-P4-SH being dumped.
+
+  RECT39X47 being dumped.
+
+  SMD120_104 being dumped.
+
+  SMD117_138 being dumped.
+
+  PAD60SQ40D being dumped.
+
+  PAD52SQ32D being dumped.
+
+  PAD57SQ37D being dumped.
+
+  SMD30_10OB being dumped.
+
+  SMD10_30OB being dumped.
+
+  SMD20_32OB being dumped.
+
+  PAD60CIR40D being dumped.
+
+  SMD10_55-S4 being dumped.
+
+  PAD52CIR32D being dumped.
+
+  PAD57CIR37D being dumped.
+
+  PAD62CIR62U being dumped.
+
+  PAD150CIR120D being dumped.
+
+
+  *** Creating shape symbols (.dra and .ssm) ***
+
+  shd10-2_54-shape-p1 being dumped.
+
+  shd10-2_54-shape-p2 being dumped.
+
+  shd10-2_54-shape-p3 being dumped.
+
+  shd10-2_54-shape-s1 being dumped.
+
+  shd10-2_54-shape-p4 being dumped.
+
+  shd10-2_54-shape-s2 being dumped.
+
+  shd10-2_54-shape-s3 being dumped.
+
+  shd10-2_54-shape-s4 being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  sop16-065-4_37 being dumped.
+
+  sw4-0403 being dumped.
+
+  db62-3cf being dumped.
+
+  db44-3cf being dumped.
+
+  ind_74437349047 being dumped.
+
+  aec10_5x10_5-g being dumped.
+
+  qfn16-050-0303lh being dumped.
+
+  son10-080-0404lh being dumped.
+
+  id-board being dumped.
+
+  sip2-2_54 being dumped.
+
+  shd10-2_54 being dumped.
+
+  sot23-3-095-3x1_4 being dumped.
+
+  sma being dumped.
+
+  sop8-50-157 being dumped.
+
+  hole315-157 being dumped.
+
+  hole292-174 being dumped.
+
+  c1210 being dumped.
+
+  c0402 being dumped.
+
+  c1206 being dumped.
+
+  c0603 being dumped.
+
+  d0603 being dumped.
+
+  f0603 being dumped.
+
+  c0805 being dumped.
+
+  l1008 being dumped.
+
+  r0402 being dumped.
+
+  sop10-0_5-3_1x3_1h-h1_1 being dumped.
+
+  sop14-50-150 being dumped.
+
+  r1206 being dumped.
+
+  r0805 being dumped.
+
+  l7567 being dumped.
+
+  hd40-2_0-40_19x4_19-h4_44 being dumped.
+
+  fb0603 being dumped.
+
+  tc7343 being dumped.
+
+  l4-0805 being dumped.
+
+  sot23-6-095-2_9x1_6 being dumped.
+
+  sop20-1_27-13_0x7_6-h2_65 being dumped.
+
+  x2-3225 being dumped.
+
+  do-214aa_smb being dumped.
+
+  qfp64-50-1010l being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  ash-bin being dumped.
+
+  stamp-1x3-80-32-v1-outline being dumped.
+
+  stamp-1x4-80-32-v1-outline being dumped.
+
+  stamp-2x3-80-32-v1-outline being dumped.
+
+  stamp-1x5-80-32-v1-outline being dumped.
+
+  stamp-2x4-80-32-v1-outline being dumped.
+
+  stamp-2x5-80-32-v1-outline being dumped.
+
+
+  *** Creating format symbols (.dra and .bsm) ***
+
+  impedance-v2 being dumped.
+
+  esd-0707 being dumped.
+
+  notes-v4 being dumped.
+
+  notes2-v5 being dumped.
+
+  layer6a-v2 being dumped.
+
+  a3-v2 being dumped.
+
+  pb-0707 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               49
+Number of package symbols dumped:         39
+Number of mechanical symbols dumped:       7
+Number of format symbols dumped:           7
+Number of shape symbols dumped:            8
+
+Total number of symbols dumped:           61
+*****************************************************
+

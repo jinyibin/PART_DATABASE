@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PL400.dra                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Oct 31 15:56:17 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/DATABASE/PCB
+    Name      = pl400.psm
+    User      = li- you-cai
+    Machine   = JINYIBIN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

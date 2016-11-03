@@ -1,22 +1,26 @@
-\t (00:02:18) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:02:18)     Journal start - Sun Oct 16 19:57:22 2016
-\t (00:02:18)         Host=JIN User=orca Pid=38404 CPUs=4
-\t (00:02:18) 
-\d (00:02:18) Database opened: G:/Project/AutoPilotPlatform/归档/V01/interface board/137320-interface_board1_V1_0_PCB/137320-interface_board1_V1_0_PCB.brd
-\i (00:02:18) generaledit 
-\i (00:02:22) dlib 
-\i (00:02:26) setwindow form.dlib
-\i (00:02:26) FORM dlib execute  
-\t (00:02:26) Starting Cadence export libraries...
-\i (00:03:29) FORM dlib cancel  
-\i (00:03:29) setwindow pcb
-\i (00:03:29) generaledit 
-\i (00:03:32) open 
-\e (00:03:32) Do you want to save the changes you made to 137320-interface_board1_V1_0_PCB.brd?
-\i (00:03:33) fillin no 
-\i (00:03:55) fillin "G:\Project\视频采集\改版V20\136693-BLACKBOX_v20_pcb\136693-BLACKBOX_v20_pcb.brd"
-\i (00:03:55) cd "G:\Project\视频采集\改版V20\136693-BLACKBOX_v20_pcb"
-\t (00:03:55) Opening existing design...
-\i (00:03:56) fillin yes 
-\i (00:03:56) trapsize 11932
-\t (00:03:57)     Journal end - Sun Oct 16 19:59:00 2016
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Nov 02 13:27:17 2016
+\t (00:00:00)         Host=JINYIBIN User=li- you-cai Pid=85828 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: D:/PART_DATABASE/PCB/PL400.dra
+\t (00:00:02) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:02) trapsize 143
+\i (00:00:02) trapsize 140
+\i (00:00:02) trapsize 144
+\i (00:00:03) trapsize 177
+\i (00:00:03) trapsize 177
+\i (00:00:03) etchedit 
+\i (00:00:07) open 
+\i (00:00:17) fillin "D:\WorkSpace\Sch\P400-800 baseboard\p400-800 baseboard-1.brd"
+\i (00:00:17) cd "D:\WorkSpace\Sch\P400-800 baseboard"
+\t (00:00:17) Opening existing design...
+\i (00:00:23) fillin yes 
+\i (00:00:23) trapsize 4883
+\i (00:00:23) trapsize 4754
+\i (00:00:23) trapsize 4883
+\t (00:00:23) Grids are drawn 15.748, 15.748 apart for enhanced viewability.
+\i (00:00:23) trapsize 4936
+\i (00:00:23) trapsize 3452
+\i (00:00:24) trapsize 3452
+\t (00:00:24)     Journal end - Wed Nov 02 13:27:41 2016

@@ -1,0 +1,18 @@
+\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:00)     Journal start - Wed Nov 02 13:26:17 2016
+\t (00:00:00)         Host=JINYIBIN User=li- you-cai Pid=92292 CPUs=4
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: D:/PART_DATABASE/PCB/PL400.dra
+\t (00:00:02) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (00:00:02) trapsize 143
+\i (00:00:02) trapsize 140
+\i (00:00:02) trapsize 144
+\i (00:00:03) trapsize 177
+\i (00:00:03) trapsize 177
+\i (00:00:03) etchedit 
+\i (00:00:06) open 
+\i (00:00:08) fillin "menu_cancel"
+\i (00:00:08) etchedit 
+\i (00:00:15) exit 
+\t (00:00:15)     Journal end - Wed Nov 02 13:26:32 2016

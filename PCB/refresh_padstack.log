@@ -1,0 +1,52 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : PL400.dra                                     )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Mon Oct 31 15:18:01 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Mon Oct 31 15:18:01 2016				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design = 'D:/DATABASE/PCB/PL400.dra'
+Output design = ''
+Reset symbol text and size locations = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/DATABASE/PCB/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/SPB_16.6/share/local/pcb/padstacks 
+           C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/Cadence/SPB_16.6/share/pcb/allegrolib/symbols 
+           D:/DATABASE/PCB/PAD/ 
+
+
+------ Pad Stack Refresh Messages ------
+
+'THERMALPAD22_28'  pad stack refresh starting.
+
+     'THERMALPAD22_28'  pad stack refreshed successfully.
+     
+'SMD1_83X0_81'  pad stack refresh starting.
+
+     'SMD1_83X0_81'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

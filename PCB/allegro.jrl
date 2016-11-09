@@ -1,65 +1,252 @@
-\t (00:04:23) allegro 16.6 S023 (v16-6-112BQ) Windows 32
-\t (00:04:23)     Journal start - Wed Nov 09 10:50:52 2016
-\t (00:04:23)         Host=JINYIBIN User=li- you-cai Pid=10772 CPUs=4
-\t (00:04:23) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:04:23) 
-\t (00:04:23) Starting new design...
-\i (00:04:23) trapsize 11
-\i (00:04:23) trapsize 11
-\i (00:04:23) package symbol wizard 
-   (00:04:24) Loading cmds.cxt 
-   (00:04:24) Loading axlcore.cxt 
-\i (00:04:24) setwindow form.sym_wizard
-\i (00:04:24) FORM sym_wizard rca_smd YES 
-\i (00:04:25) FORM sym_wizard wiz_next  
-\i (00:04:26) FORM sym_wizard load_template  
-\t (00:04:26) Opening existing design...
-\i (00:04:28) fillin yes 
-\t (00:04:28) Grids are drawn 200, 200 apart for enhanced viewability.
-\i (00:04:28) setwindow pcb
-\i (00:04:28) trapsize 212
-\d (00:04:28) Design opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
-\i (00:04:28) setwindow form.sym_wizard
-\i (00:04:28) FORM sym_wizard wiz_next  
-\i (00:04:32) FORM sym_wizard pack_units Millimeter 
-\i (00:04:33) FORM sym_wizard pack_units_create Millimeter 
-\i (00:04:38) FORM sym_wizard ref_des R* 
-\i (00:04:38) FORM sym_wizard wiz_next  
-\i (00:04:54) FORM sym_wizard smd_discrete_e1 6.200 
-\i (00:04:54) FORM sym_wizard wiz_next  
-\i (00:04:56) FORM sym_wizard wiz_back  
-\i (00:05:11) FORM sym_wizard smd_discrete_width 7.200 
-\i (00:05:23) FORM sym_wizard smd_discrete_len 3.300 
-\i (00:05:23) FORM sym_wizard wiz_next  
-\i (00:05:24) FORM sym_wizard default_pad_browse  
-\t (00:05:28) No valid name selected.
-\i (00:05:31) fillin "Smd-1x3_2Mm"
-\i (00:05:33) FORM sym_wizard wiz_next  
-\i (00:05:35) FORM sym_wizard wiz_next  
-\i (00:05:36) FORM sym_wizard wiz_finish  
-\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\t (00:05:36) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
-\i (00:05:36) setwindow pcb
-\i (00:05:36) trapsize 5377
-\t (00:05:36) Performing DRC...
-\t (00:05:36) No DRC errors detected.
-\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
-\i (00:05:36) trapsize 5377
-\i (00:05:36) trapsize 759
-\i (00:05:36) trapsize 101
-\i (00:05:36) trapsize 98
-\t (00:05:37) Creating package symbol 'D:/PART_DATABASE/PCB/r2512.psm'.
-\t (00:05:37) Starting Create symbol...
-\i (00:05:48) save 
-\i (00:05:50) fillin yes 
-\t (00:05:50) Symbol 'r2512.psm' created.
-\i (00:06:13) opencd 'D:/WorkSpace/Sch/mother board/mother board.brd' 
-\t (00:06:13) Opening existing design...
-\i (00:06:13) trapsize 644
-\i (00:06:13) trapsize 632
-\i (00:06:13) trapsize 644
-\i (00:06:13) trapsize 649
-\i (00:06:14) trapsize 750
-\t (00:06:14) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
-\i (00:06:14) trapsize 749
-\t (00:06:14)     Journal end - Wed Nov 09 10:52:43 2016
+\t (00:23:26) allegro 16.6 S023 (v16-6-112BQ) Windows 32
+\t (00:23:26)     Journal start - Wed Nov 09 17:56:20 2016
+\t (00:23:26)         Host=JINYIBIN User=li- you-cai Pid=11392 CPUs=4
+\t (00:23:26) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:23:26) 
+\d (00:23:26) Design opened: D:/PART_DATABASE/PCB/HD20-2_0-20_19X4_19-H4_44.dra
+\i (00:23:27) zoom out 1 
+\i (00:23:27) setwindow pcb
+\i (00:23:27) zoom out -179.60 -1.56
+\t (00:23:27) Grids are drawn 10.00, 10.00 apart for enhanced viewability.
+\i (00:23:27) trapsize 806
+\i (00:23:29) zoom in 1 
+\i (00:23:29) setwindow pcb
+\i (00:23:29) zoom in -744.53 -43.46
+\i (00:23:29) trapsize 403
+\i (00:23:32) delete 
+\i (00:23:32) pick grid -747.75 41.96
+\t (00:23:32) last pick:  -750.00 40.00
+\i (00:23:33) pick grid -747.75 41.96
+\t (00:23:33) last pick:  -750.00 40.00
+\i (00:23:34) pick grid dbl -747.75 41.96
+\t (00:23:34) last pick:  -750.00 40.00
+\i (00:23:37) setwindow form.find
+\i (00:23:37) FORM find shapes NO 
+\i (00:23:39) FORM find pins YES 
+\i (00:23:39) FORM find lines NO 
+\i (00:23:40) setwindow pcb
+\i (00:23:40) pick grid -749.36 22.62
+\t (00:23:40) last pick:  -750.00 25.00
+\t (00:23:40) Pin "Pad52cir32d, 2"
+\i (00:23:40) pick grid dbl -749.36 22.62
+\t (00:23:40) last pick:  -750.00 25.00
+\i (00:23:41) pick grid -655.07 34.71
+\t (00:23:41) last pick:  -655.00 35.00
+\t (00:23:41) Pin "Pad52cir32d, 4"
+\i (00:23:41) pick grid dbl -655.07 34.71
+\t (00:23:41) last pick:  -655.00 35.00
+\i (00:23:41) pick grid -667.97 -18.48
+\t (00:23:41) last pick:  -670.00 -20.00
+\t (00:23:41) Pin "Pad52cir32d, 3"
+\i (00:23:41) pick grid dbl -667.97 -18.48
+\t (00:23:41) last pick:  -670.00 -20.00
+\i (00:23:42) pick grid -593.82 -34.60
+\t (00:23:42) last pick:  -595.00 -35.00
+\t (00:23:42) Pin "Pad52cir32d, 5"
+\i (00:23:42) pick grid dbl -593.82 -34.60
+\t (00:23:42) last pick:  -595.00 -35.00
+\i (00:23:42) pick grid -590.60 29.07
+\t (00:23:42) last pick:  -590.00 30.00
+\t (00:23:42) Pin "Pad52cir32d, 6"
+\i (00:23:42) pick grid dbl -590.60 29.07
+\t (00:23:42) last pick:  -590.00 30.00
+\i (00:23:43) pick grid -510.82 40.35
+\t (00:23:43) last pick:  -510.00 40.00
+\t (00:23:43) Pin "Pad52cir32d, 8"
+\i (00:23:43) pick grid dbl -510.82 40.35
+\t (00:23:43) last pick:  -510.00 40.00
+\i (00:23:43) pick grid -508.40 -30.57
+\t (00:23:43) last pick:  -510.00 -30.00
+\t (00:23:43) Pin "Pad52cir32d, 7"
+\i (00:23:43) pick grid dbl -508.40 -30.57
+\t (00:23:43) last pick:  -510.00 -30.00
+\i (00:23:44) pick grid -434.26 -39.43
+\t (00:23:44) last pick:  -435.00 -40.00
+\t (00:23:44) Pin "Pad52cir32d, 9"
+\i (00:23:44) pick grid dbl -434.26 -39.43
+\t (00:23:44) last pick:  -435.00 -40.00
+\i (00:23:44) pick grid -433.45 41.96
+\t (00:23:44) last pick:  -435.00 40.00
+\t (00:23:44) Pin "Pad52cir32d, 10"
+\i (00:23:44) pick grid dbl -433.45 41.96
+\t (00:23:44) last pick:  -435.00 40.00
+\i (00:23:44) pick grid -348.03 50.83
+\t (00:23:44) last pick:  -350.00 50.00
+\t (00:23:44) Pin "Pad52cir32d, 12"
+\i (00:23:45) pick grid dbl -348.03 50.83
+\t (00:23:45) last pick:  -350.00 50.00
+\i (00:23:45) pick grid -352.06 -36.21
+\t (00:23:45) last pick:  -350.00 -35.00
+\t (00:23:45) Pin "Pad52cir32d, 11"
+\i (00:23:45) pick grid dbl -352.06 -36.21
+\t (00:23:45) last pick:  -350.00 -35.00
+\i (00:23:45) pick grid -267.44 -41.04
+\t (00:23:45) last pick:  -265.00 -40.00
+\t (00:23:45) Pin "Pad52cir32d, 13"
+\i (00:23:46) pick grid dbl -267.44 -41.04
+\t (00:23:46) last pick:  -265.00 -40.00
+\i (00:23:46) pick grid -277.11 21.82
+\t (00:23:46) last pick:  -275.00 20.00
+\t (00:23:46) Pin "Pad52cir32d, 14"
+\i (00:23:46) pick grid dbl -277.11 21.82
+\t (00:23:46) last pick:  -275.00 20.00
+\i (00:23:46) pick grid -186.85 36.32
+\t (00:23:46) last pick:  -185.00 35.00
+\t (00:23:46) Pin "Pad52cir32d, 16"
+\i (00:23:46) pick grid dbl -186.85 36.32
+\t (00:23:46) last pick:  -185.00 35.00
+\i (00:23:47) pick grid -194.11 -37.01
+\t (00:23:47) last pick:  -195.00 -35.00
+\t (00:23:47) Pin "Pad52cir32d, 15"
+\i (00:23:47) pick grid dbl -194.11 -37.01
+\t (00:23:47) last pick:  -195.00 -35.00
+\i (00:23:47) pick grid -120.77 -44.27
+\t (00:23:47) last pick:  -120.00 -45.00
+\t (00:23:47) Pin "Pad52cir32d, 17"
+\i (00:23:47) pick grid dbl -120.77 -44.27
+\t (00:23:47) last pick:  -120.00 -45.00
+\i (00:23:48) pick grid -129.64 19.40
+\t (00:23:48) last pick:  -130.00 20.00
+\t (00:23:48) Pin "Pad52cir32d, 18"
+\i (00:23:48) pick grid dbl -129.64 19.40
+\t (00:23:48) last pick:  -130.00 20.00
+\i (00:23:48) pick grid -44.21 31.49
+\t (00:23:48) last pick:  -45.00 30.00
+\t (00:23:48) Pin "Pad52cir32d, 20"
+\i (00:23:48) pick grid dbl -44.21 31.49
+\t (00:23:48) last pick:  -45.00 30.00
+\i (00:23:49) pick grid -45.83 -38.62
+\t (00:23:49) last pick:  -45.00 -40.00
+\t (00:23:49) Pin "Pad52cir32d, 19"
+\i (00:23:49) pick grid dbl -45.83 -38.62
+\t (00:23:49) last pick:  -45.00 -40.00
+\i (00:23:51) pick grid -743.72 -49.91
+\t (00:23:51) last pick:  -745.00 -50.00
+\t (00:23:51) Pin "Pad52sq32d, 1"
+\i (00:23:51) pick grid dbl -743.72 -49.91
+\t (00:23:51) last pick:  -745.00 -50.00
+\i (00:23:56) define grid 
+\t (00:23:56) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:23:58) setwindow form.grid
+\i (00:23:58) FORM grid done  
+\i (00:23:59) setwindow pcb
+\i (00:23:59) prmed 
+\i (00:24:02) setwindow form.prmedit
+\i (00:24:02) FORM prmedit units Millimeter 
+\e (00:24:02) Change may cause round-off; run dbcheck.
+\i (00:24:03) FORM prmedit apply  
+\w (00:24:03) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:24:03) setwindow pcb
+\i (00:24:03) trapsize 1023
+\t (00:24:03) Performing DRC...
+\t (00:24:03) No DRC errors detected.
+\i (00:24:03) setwindow form.prmedit
+\i (00:24:03) FORM prmedit done  
+\i (00:24:05) setwindow pcb
+\i (00:24:05) define grid 
+\t (00:24:06) Spacing fields allow simple equations to aid calculations; prefix with =
+\i (00:24:10) setwindow form.grid
+\i (00:24:10) FORM grid non_etch non_etch_x_grids 1 
+\i (00:24:12) FORM grid non_etch non_etch_y_grids 1 
+\i (00:24:12) FORM grid top subclass_x_grids 1 
+\i (00:24:13) FORM grid top subclass_y_grids 1 
+\i (00:24:14) FORM grid gnd02 subclass_x_grids 1 
+\i (00:24:15) FORM grid gnd02 subclass_y_grids 1 
+\i (00:24:15) FORM grid done  
+\i (00:24:22) setwindow pcb
+\i (00:24:22) add pin 
+\i (00:24:25) setwindow form.mini
+\i (00:24:25) FORM mini pad_browse  
+\t (00:24:28) No valid name selected.
+\i (00:24:30) fillin "Drill-pad-52-32-sq"
+\w (00:24:30) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:24:30) Using 'DRILL-PAD-52-32-SQ.pad'.
+\i (00:24:31) setwindow pcb
+\i (00:24:31) pick grid -19.4636 -0.5921
+\t (00:24:31) last pick:  -19.0000 -1.0000
+\t (00:24:31) Using 'DRILL-PAD-52-32-SQ.pad'.
+\i (00:24:32) prepopup -14.1211 -0.6126
+\i (00:24:33) done 
+\t (00:24:33) Exiting from Add Pin.
+\i (00:24:34) add pin 
+\t (00:24:34) Using 'DRILL-PAD-52-32-SQ.pad'.
+\i (00:24:36) setwindow form.mini
+\i (00:24:36) FORM mini pad_browse  
+\t (00:24:40) No valid name selected.
+\i (00:24:41) fillin "Drill-pad-52-32"
+\w (00:24:41) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:24:41) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:43) setwindow pcb
+\i (00:24:43) pick grid -18.5015 0.8203
+\t (00:24:43) last pick:  -19.0000 1.0000
+\t (00:24:43) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:44) pick grid -17.3348 -0.5102
+\t (00:24:44) last pick:  -17.0000 -1.0000
+\t (00:24:44) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:45) pick grid -17.2938 0.5133
+\t (00:24:45) last pick:  -17.0000 1.0000
+\t (00:24:45) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:47) pick grid -14.5714 -0.5102
+\t (00:24:47) last pick:  -15.0000 -1.0000
+\t (00:24:47) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:47) pick grid -15.2469 0.5337
+\t (00:24:47) last pick:  -15.0000 1.0000
+\t (00:24:47) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:48) pick grid -13.4865 -0.9401
+\t (00:24:48) last pick:  -13.0000 -1.0000
+\t (00:24:48) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:49) pick grid -13.1181 0.6156
+\t (00:24:49) last pick:  -13.0000 1.0000
+\t (00:24:49) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:50) pick grid -11.4805 -0.7354
+\t (00:24:50) last pick:  -11.0000 -1.0000
+\t (00:24:50) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:50) pick grid -10.9279 0.5133
+\t (00:24:50) last pick:  -11.0000 1.0000
+\t (00:24:50) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:51) pick grid -9.2289 -0.5102
+\t (00:24:51) last pick:  -9.0000 -1.0000
+\t (00:24:51) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:52) pick grid -9.1470 0.5337
+\t (00:24:52) last pick:  -9.0000 1.0000
+\t (00:24:52) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:53) pick grid -7.1206 -0.5102
+\t (00:24:53) last pick:  -7.0000 -1.0000
+\t (00:24:53) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:53) pick grid -6.9773 0.5337
+\t (00:24:53) last pick:  -7.0000 1.0000
+\t (00:24:53) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:54) pick grid -5.1760 -0.5307
+\t (00:24:54) last pick:  -5.0000 -1.0000
+\t (00:24:54) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:54) pick grid -4.8894 0.5133
+\t (00:24:54) last pick:  -5.0000 1.0000
+\t (00:24:54) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:55) pick grid -3.2518 -0.5102
+\t (00:24:55) last pick:  -3.0000 -1.0000
+\t (00:24:55) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:56) pick grid -3.1290 0.5133
+\t (00:24:56) last pick:  -3.0000 1.0000
+\t (00:24:56) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:58) pick grid -1.1640 -0.5921
+\t (00:24:58) last pick:  -1.0000 -1.0000
+\t (00:24:58) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:58) pick grid -1.1026 0.5133
+\t (00:24:58) last pick:  -1.0000 1.0000
+\t (00:24:58) Using 'DRILL-PAD-52-32.pad'.
+\i (00:24:59) prepopup 1.9679 -1.1857
+\i (00:24:59) done 
+\t (00:24:59) Exiting from Add Pin.
+\i (00:25:00) save 
+\i (00:25:01) fillin yes 
+\t (00:25:01) Symbol 'hd20-2_0-20_19x4_19-h4_44.psm' created.
+\i (00:25:22) opencd 'D:/WorkSpace/Sch/mother board/mother board.brd' 
+\t (00:25:22) Opening existing design...
+\i (00:25:22) trapsize 644
+\i (00:25:22) trapsize 632
+\i (00:25:22) trapsize 644
+\i (00:25:22) trapsize 649
+\i (00:25:22) trapsize 750
+\t (00:25:22) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:25:22) trapsize 749
+\t (00:25:23)     Journal end - Wed Nov 09 17:58:16 2016

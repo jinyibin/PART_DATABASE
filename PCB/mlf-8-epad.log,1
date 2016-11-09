@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : MLF-8-EPAD.dra                                )
+(    Software Version : 16.6S023                                      )
+(    Date/Time        : Sun Nov 06 09:23:28 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/brisky_one/pcb_lib
+    Name      = mlf-8-epad.psm
+    User      = Administrator
+    Machine   = DEEP-20160822YU
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

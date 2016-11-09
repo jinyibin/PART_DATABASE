@@ -1,26 +1,32 @@
-\t (00:00:00) allegro 16.6 P004 (v16-6-112G) Windows 32
-\t (00:00:00)     Journal start - Wed Nov 02 13:27:17 2016
-\t (00:00:00)         Host=JINYIBIN User=li- you-cai Pid=85828 CPUs=4
-\t (00:00:00) 
-\t (00:00:02) Opening existing design...
-\d (00:00:02) Database opened: D:/PART_DATABASE/PCB/PL400.dra
-\t (00:00:02) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
-\i (00:00:02) trapsize 143
-\i (00:00:02) trapsize 140
-\i (00:00:02) trapsize 144
-\i (00:00:03) trapsize 177
-\i (00:00:03) trapsize 177
-\i (00:00:03) etchedit 
-\i (00:00:07) open 
-\i (00:00:17) fillin "D:\WorkSpace\Sch\P400-800 baseboard\p400-800 baseboard-1.brd"
-\i (00:00:17) cd "D:\WorkSpace\Sch\P400-800 baseboard"
-\t (00:00:17) Opening existing design...
-\i (00:00:23) fillin yes 
-\i (00:00:23) trapsize 4883
-\i (00:00:23) trapsize 4754
-\i (00:00:23) trapsize 4883
-\t (00:00:23) Grids are drawn 15.748, 15.748 apart for enhanced viewability.
-\i (00:00:23) trapsize 4936
-\i (00:00:23) trapsize 3452
-\i (00:00:24) trapsize 3452
-\t (00:00:24)     Journal end - Wed Nov 02 13:27:41 2016
+\t (00:04:21) allegro 16.6 S023 (v16-6-112BQ) Windows 32
+\t (00:04:21)     Journal start - Wed Nov 09 09:05:13 2016
+\t (00:04:21)         Host=JINYIBIN User=li- you-cai Pid=13616 CPUs=4
+\t (00:04:21) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:04:21) 
+\d (00:04:21) Design opened: D:/PART_DATABASE/PCB/HD20-2_0-20_19X4_19-H4_44.dra
+\i (00:04:26) enved 
+\i (00:04:31) setwindow form.prfedit
+\i (00:04:31) FORM prfedit treelist  Library Paths 
+\i (00:04:33) FORM prfedit padpath  
+\i (00:04:45) FORM prfedit cancel  
+\i (00:05:23) setwindow pcb
+\i (00:05:23) move 
+\t (00:05:24) Select element(s) to move.
+\i (00:05:28) prepopup -504.37 41.96
+\i (00:05:30) pick grid -512.43 125.77
+\t (00:05:30) last pick:  -510.00 125.00
+\i (00:05:31) prepopup -510.02 45.99
+\i (00:05:34) pick grid -535.80 160.43
+\t (00:05:34) last pick:  -535.00 160.00
+\i (00:05:37) opencd 'D:/WorkSpace/Sch/mother board/mother board.brd' 
+\e (00:05:37) Do you want to save the changes you made to HD20-2_0-20_19X4_19-H4_44.dra?
+\i (00:05:38) fillin no 
+\t (00:05:38) Opening existing design...
+\i (00:05:39) trapsize 644
+\i (00:05:39) trapsize 632
+\i (00:05:39) trapsize 644
+\i (00:05:39) trapsize 649
+\i (00:05:39) trapsize 750
+\t (00:05:39) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:05:39) trapsize 749
+\t (00:05:39)     Journal end - Wed Nov 09 09:06:31 2016

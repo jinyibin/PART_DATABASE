@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : DIP20_2_0.dra                                 )
+(    Software Version : 16.6S023                                      )
+(    Date/Time        : Fri Nov 04 18:34:27 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = E:/brisky_one/pcb_lib
+    Name      = dip20_2_0.psm
+    User      = BRISKY
+    Machine   = BRISKY-PC
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

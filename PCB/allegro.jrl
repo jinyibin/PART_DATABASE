@@ -1,32 +1,65 @@
-\t (00:04:21) allegro 16.6 S023 (v16-6-112BQ) Windows 32
-\t (00:04:21)     Journal start - Wed Nov 09 09:05:13 2016
-\t (00:04:21)         Host=JINYIBIN User=li- you-cai Pid=13616 CPUs=4
-\t (00:04:21) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
-\t (00:04:21) 
-\d (00:04:21) Design opened: D:/PART_DATABASE/PCB/HD20-2_0-20_19X4_19-H4_44.dra
-\i (00:04:26) enved 
-\i (00:04:31) setwindow form.prfedit
-\i (00:04:31) FORM prfedit treelist  Library Paths 
-\i (00:04:33) FORM prfedit padpath  
-\i (00:04:45) FORM prfedit cancel  
-\i (00:05:23) setwindow pcb
-\i (00:05:23) move 
-\t (00:05:24) Select element(s) to move.
-\i (00:05:28) prepopup -504.37 41.96
-\i (00:05:30) pick grid -512.43 125.77
-\t (00:05:30) last pick:  -510.00 125.00
-\i (00:05:31) prepopup -510.02 45.99
-\i (00:05:34) pick grid -535.80 160.43
-\t (00:05:34) last pick:  -535.00 160.00
-\i (00:05:37) opencd 'D:/WorkSpace/Sch/mother board/mother board.brd' 
-\e (00:05:37) Do you want to save the changes you made to HD20-2_0-20_19X4_19-H4_44.dra?
-\i (00:05:38) fillin no 
-\t (00:05:38) Opening existing design...
-\i (00:05:39) trapsize 644
-\i (00:05:39) trapsize 632
-\i (00:05:39) trapsize 644
-\i (00:05:39) trapsize 649
-\i (00:05:39) trapsize 750
-\t (00:05:39) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
-\i (00:05:39) trapsize 749
-\t (00:05:39)     Journal end - Wed Nov 09 09:06:31 2016
+\t (00:04:23) allegro 16.6 S023 (v16-6-112BQ) Windows 32
+\t (00:04:23)     Journal start - Wed Nov 09 10:50:52 2016
+\t (00:04:23)         Host=JINYIBIN User=li- you-cai Pid=10772 CPUs=4
+\t (00:04:23) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:04:23) 
+\t (00:04:23) Starting new design...
+\i (00:04:23) trapsize 11
+\i (00:04:23) trapsize 11
+\i (00:04:23) package symbol wizard 
+   (00:04:24) Loading cmds.cxt 
+   (00:04:24) Loading axlcore.cxt 
+\i (00:04:24) setwindow form.sym_wizard
+\i (00:04:24) FORM sym_wizard rca_smd YES 
+\i (00:04:25) FORM sym_wizard wiz_next  
+\i (00:04:26) FORM sym_wizard load_template  
+\t (00:04:26) Opening existing design...
+\i (00:04:28) fillin yes 
+\t (00:04:28) Grids are drawn 200, 200 apart for enhanced viewability.
+\i (00:04:28) setwindow pcb
+\i (00:04:28) trapsize 212
+\d (00:04:28) Design opened: C:/Cadence/SPB_16.6/share/pcb/pcb_lib/symbols/template/sym_template.dra
+\i (00:04:28) setwindow form.sym_wizard
+\i (00:04:28) FORM sym_wizard wiz_next  
+\i (00:04:32) FORM sym_wizard pack_units Millimeter 
+\i (00:04:33) FORM sym_wizard pack_units_create Millimeter 
+\i (00:04:38) FORM sym_wizard ref_des R* 
+\i (00:04:38) FORM sym_wizard wiz_next  
+\i (00:04:54) FORM sym_wizard smd_discrete_e1 6.200 
+\i (00:04:54) FORM sym_wizard wiz_next  
+\i (00:04:56) FORM sym_wizard wiz_back  
+\i (00:05:11) FORM sym_wizard smd_discrete_width 7.200 
+\i (00:05:23) FORM sym_wizard smd_discrete_len 3.300 
+\i (00:05:23) FORM sym_wizard wiz_next  
+\i (00:05:24) FORM sym_wizard default_pad_browse  
+\t (00:05:28) No valid name selected.
+\i (00:05:31) fillin "Smd-1x3_2Mm"
+\i (00:05:33) FORM sym_wizard wiz_next  
+\i (00:05:35) FORM sym_wizard wiz_next  
+\i (00:05:36) FORM sym_wizard wiz_finish  
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:05:36) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:05:36) setwindow pcb
+\i (00:05:36) trapsize 5377
+\t (00:05:36) Performing DRC...
+\t (00:05:36) No DRC errors detected.
+\w (00:05:36) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:05:36) trapsize 5377
+\i (00:05:36) trapsize 759
+\i (00:05:36) trapsize 101
+\i (00:05:36) trapsize 98
+\t (00:05:37) Creating package symbol 'D:/PART_DATABASE/PCB/r2512.psm'.
+\t (00:05:37) Starting Create symbol...
+\i (00:05:48) save 
+\i (00:05:50) fillin yes 
+\t (00:05:50) Symbol 'r2512.psm' created.
+\i (00:06:13) opencd 'D:/WorkSpace/Sch/mother board/mother board.brd' 
+\t (00:06:13) Opening existing design...
+\i (00:06:13) trapsize 644
+\i (00:06:13) trapsize 632
+\i (00:06:13) trapsize 644
+\i (00:06:13) trapsize 649
+\i (00:06:14) trapsize 750
+\t (00:06:14) Grids are drawn 5.080, 5.080 apart for enhanced viewability.
+\i (00:06:14) trapsize 749
+\t (00:06:14)     Journal end - Wed Nov 09 10:52:43 2016

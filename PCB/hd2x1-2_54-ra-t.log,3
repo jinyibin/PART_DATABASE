@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : HD2X1-2_54-RA-T.dra                           )
+(    Software Version : 16.6S023                                      )
+(    Date/Time        : Thu Nov 10 11:45:18 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/PART_DATABASE/PCB
+    Name      = hd2x1-2_54-ra-t.psm
+    User      = li- you-cai
+    Machine   = JINYIBIN
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

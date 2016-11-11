@@ -1,0 +1,35 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PowerPAK_PIN5.dra                             )
+(    Software Version : 16.6S023                                      )
+(    Date/Time        : Fri Nov 11 09:16:24 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = D:/PART_DATABASE/PCB
+    Name      = powerpak_pin5.ssm
+    User      = li- you-cai
+    Machine   = JINYIBIN
+
+
+Create symbol started.
+ 
+ ERROR(SPMHA1-98): Illegal element class. 95027680 
+LINE	@95027680
+1)  mask	  = 20
+2)  class       = 9 = PACKAGE GEOMETRY
+3)  subclass    = 253 = ASSEMBLY_TOP
+4)  link        = 95027560
+5)  parent_ptr  = 94134252
+6)  first_segment = 95027520
+7)  first_text	  = 0
+8)  first_relation	  = 0
+
+ ERROR(SPMHA1-98): Illegal element class. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

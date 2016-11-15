@@ -1,1 +1,1 @@
-SM02B-GHS-TB.dra
+PL12_5x12_5.dra

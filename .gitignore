@@ -24,6 +24,16 @@ $RECYCLE.BIN/
 # OSX
 # =========================
 
+# =========================
+!*.mdb
+!*.doc
+!*.docx
+!*.zip
+!*.OLB
+!*.dra
+!*.psm
+!*.PAD
+
 .DS_Store
 .AppleDouble
 .LSOverride

@@ -33,6 +33,8 @@ $RECYCLE.BIN/
 !*.dra
 !*.psm
 !*.PAD
+
+*.obk
 /PCB/Lib/
 
 .DS_Store

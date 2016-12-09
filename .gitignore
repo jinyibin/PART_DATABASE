@@ -33,6 +33,7 @@ $RECYCLE.BIN/
 !*.dra
 !*.psm
 !*.PAD
+/PCB/Lib/
 
 .DS_Store
 .AppleDouble

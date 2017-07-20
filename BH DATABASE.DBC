@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <CFGManager>
 
-  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Tue Jul 11 10:52:24 2017
+  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Wed Jul 19 16:17:57 2017
 -->
 
   <CISVersion>
@@ -26,7 +26,7 @@
 
   <UseTopSup>0</UseTopSup>
 
-  <DoNotStuffString>Do Not Stuff</DoNotStuffString>
+  <DoNotStuffString>unused</DoNotStuffString>
 
   <MechPartMappingTable>MechPart Mapping Table</MechPartMappingTable>
 
@@ -53,26 +53,58 @@
   </SelectedICASupList>
 
   <SelectedICASupList indx="2">
-    <ICASuplierList>Digi-Key</ICASuplierList>
+    <ICASuplierList>Allied</ICASuplierList>
   </SelectedICASupList>
 
   <SelectedICASupList indx="3">
-    <ICASuplierList>Digi-Key</ICASuplierList>
+    <ICASuplierList>Allied</ICASuplierList>
   </SelectedICASupList>
 
   <SelectedICASupList indx="4">
-    <ICASuplierList>Marshall</ICASuplierList>
+    <ICASuplierList>Digi-Key</ICASuplierList>
   </SelectedICASupList>
 
   <SelectedICASupList indx="5">
-    <ICASuplierList>Marshall</ICASuplierList>
+    <ICASuplierList>Digi-Key</ICASuplierList>
   </SelectedICASupList>
 
   <SelectedICASupList indx="6">
-    <ICASuplierList>NUHorizons</ICASuplierList>
+    <ICASuplierList>Digi-Key</ICASuplierList>
   </SelectedICASupList>
 
   <SelectedICASupList indx="7">
+    <ICASuplierList>Digi-Key</ICASuplierList>
+  </SelectedICASupList>
+
+  <SelectedICASupList indx="8">
+    <ICASuplierList>Marshall</ICASuplierList>
+  </SelectedICASupList>
+
+  <SelectedICASupList indx="9">
+    <ICASuplierList>Marshall</ICASuplierList>
+  </SelectedICASupList>
+
+  <SelectedICASupList indx="10">
+    <ICASuplierList>Marshall</ICASuplierList>
+  </SelectedICASupList>
+
+  <SelectedICASupList indx="11">
+    <ICASuplierList>Marshall</ICASuplierList>
+  </SelectedICASupList>
+
+  <SelectedICASupList indx="12">
+    <ICASuplierList>NUHorizons</ICASuplierList>
+  </SelectedICASupList>
+
+  <SelectedICASupList indx="13">
+    <ICASuplierList>NUHorizons</ICASuplierList>
+  </SelectedICASupList>
+
+  <SelectedICASupList indx="14">
+    <ICASuplierList>NUHorizons</ICASuplierList>
+  </SelectedICASupList>
+
+  <SelectedICASupList indx="15">
     <ICASuplierList>NUHorizons</ICASuplierList>
   </SelectedICASupList>
 

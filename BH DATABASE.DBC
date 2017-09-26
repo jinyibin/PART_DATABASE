@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <CFGManager>
 
-  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Wed Jul 19 16:17:57 2017
+  <!--CIS DBC configuration file 16.3 release. Created on (date/time) Tue Sep 26 14:21:29 2017
 -->
 
   <CISVersion>
     <Value>CIS Version 16.3</Value>
   </CISVersion>
 
-  <LastModifiedTime>543976824</LastModifiedTime>
+  <LastModifiedTime>1506406887</LastModifiedTime>
 
   <AllowDuplicatePartNumbers>1</AllowDuplicatePartNumbers>
 
@@ -26,7 +26,7 @@
 
   <UseTopSup>0</UseTopSup>
 
-  <DoNotStuffString>unused</DoNotStuffString>
+  <DoNotStuffString>Do Not Stuff</DoNotStuffString>
 
   <MechPartMappingTable>MechPart Mapping Table</MechPartMappingTable>
 
@@ -34,79 +34,15 @@
 
   <DSNName>BH Database</DSNName>
 
-  <AssistMode>1</AssistMode>
+  <AssistMode>0</AssistMode>
 
   <AutoPartTypeRefresh>1</AutoPartTypeRefresh>
 
-  <PartNumber>0</PartNumber>
+  <PartNumber>1</PartNumber>
 
   <PartRefernce>1</PartRefernce>
 
   <RefDesAssoc/>
-
-  <SelectedICASupList indx="0">
-    <ICASuplierList>Allied</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="1">
-    <ICASuplierList>Allied</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="2">
-    <ICASuplierList>Allied</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="3">
-    <ICASuplierList>Allied</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="4">
-    <ICASuplierList>Digi-Key</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="5">
-    <ICASuplierList>Digi-Key</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="6">
-    <ICASuplierList>Digi-Key</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="7">
-    <ICASuplierList>Digi-Key</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="8">
-    <ICASuplierList>Marshall</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="9">
-    <ICASuplierList>Marshall</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="10">
-    <ICASuplierList>Marshall</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="11">
-    <ICASuplierList>Marshall</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="12">
-    <ICASuplierList>NUHorizons</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="13">
-    <ICASuplierList>NUHorizons</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="14">
-    <ICASuplierList>NUHorizons</ICASuplierList>
-  </SelectedICASupList>
-
-  <SelectedICASupList indx="15">
-    <ICASuplierList>NUHorizons</ICASuplierList>
-  </SelectedICASupList>
 
   <DbTableCfg indx="0">
     <NewPartDB>0</NewPartDB>
@@ -461,7 +397,7 @@
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
     <DbFieldDef indx="2">
-      <FieldName>Description</FieldName>
+      <FieldName>DESCRIPTION</FieldName>
       <DBFieldName>DESCRIPTION</DBFieldName>
       <ICAFieldName></ICAFieldName>
       <DBFieldType>12</DBFieldType>
@@ -899,7 +835,7 @@
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
     <DbFieldDef indx="11">
-      <FieldName>Description</FieldName>
+      <FieldName>DESCRIPTION</FieldName>
       <DBFieldName>DESCRIPTION</DBFieldName>
       <ICAFieldName></ICAFieldName>
       <DBFieldType>12</DBFieldType>
@@ -1103,7 +1039,7 @@
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
     <DbFieldDef indx="2">
-      <FieldName>Description</FieldName>
+      <FieldName>DESCRIPTION</FieldName>
       <DBFieldName>DESCRIPTION</DBFieldName>
       <ICAFieldName></ICAFieldName>
       <DBFieldType>12</DBFieldType>
@@ -1595,7 +1531,7 @@
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
     <DbFieldDef indx="14">
-      <FieldName>Description</FieldName>
+      <FieldName>DESCRIPTION</FieldName>
       <DBFieldName>DESCRIPTION</DBFieldName>
       <ICAFieldName></ICAFieldName>
       <DBFieldType>12</DBFieldType>
@@ -3419,7 +3355,7 @@
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
     <DbFieldDef indx="3">
-      <FieldName></FieldName>
+      <FieldName>VOLTAGE</FieldName>
       <DBFieldName>VOLTAGE</DBFieldName>
       <ICAFieldName></ICAFieldName>
       <DBFieldType>12</DBFieldType>
@@ -3431,7 +3367,7 @@
       <Browse>0</Browse>
       <Protected>0</Protected>
       <Key>0</Key>
-      <Ignore>1</Ignore>
+      <Ignore>0</Ignore>
       <Visibility>0</Visibility>
       <PropertyType>0</PropertyType>
       <UpdatePartProp>1</UpdatePartProp>
@@ -3731,7 +3667,7 @@
       <UpdatePartProp>1</UpdatePartProp>
     </DbFieldDef>
     <DbFieldDef indx="3">
-      <FieldName></FieldName>
+      <FieldName>VOLTAGE</FieldName>
       <DBFieldName>VOLTAGE</DBFieldName>
       <ICAFieldName></ICAFieldName>
       <DBFieldType>12</DBFieldType>
@@ -3743,7 +3679,7 @@
       <Browse>0</Browse>
       <Protected>0</Protected>
       <Key>0</Key>
-      <Ignore>1</Ignore>
+      <Ignore>0</Ignore>
       <Visibility>0</Visibility>
       <PropertyType>0</PropertyType>
       <UpdatePartProp>1</UpdatePartProp>
